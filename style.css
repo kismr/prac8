@@ -1,0 +1,16 @@
+table.a {
+    border: red 1px solid;
+}
+
+td.a {
+    border: blue 3px solid;
+}
+
+table.b {
+    border: green 1px solid;
+}
+
+td.b {
+    border: green 1px solid;
+    width: 200px;
+}
